@@ -1,0 +1,16 @@
+# Ignorar entornos virtuales
+venv/
+env/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuraciones de desarrollo
+*.env
+
+# Ignorar configuraciones de visual studio
+.vscode/
